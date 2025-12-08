@@ -1,0 +1,19 @@
+    # Python
+    __pycache__/
+    *.pyc
+    .venv/
+    venv/
+    env/
+
+    # Data
+    data/raw/
+    data/processed/
+
+    # Models
+    models/
+data/tokenizer/tokenizer.json
+models/
+*.pt
+models/
+models/
+*.pt
